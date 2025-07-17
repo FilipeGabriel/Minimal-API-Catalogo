@@ -102,3 +102,4 @@ E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCata
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.genruntimeconfig.cache
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ref\ApiCatalogo.dll
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.sourcelink.json
