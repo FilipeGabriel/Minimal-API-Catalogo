@@ -103,3 +103,11 @@ E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCata
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ref\ApiCatalogo.dll
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.sourcelink.json
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programação\Cursos\C#\NET8\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
