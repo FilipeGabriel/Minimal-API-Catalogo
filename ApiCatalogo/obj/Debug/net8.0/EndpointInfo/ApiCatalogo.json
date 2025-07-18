@@ -5,25 +5,6 @@
     "version": "v1"
   },
   "paths": {
-    "/": {
-      "get": {
-        "tags": [
-          "ApiCatalogo"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/categorias/{id}": {
       "get": {
         "tags": [
